@@ -1,2 +1,2 @@
-# GCW-
+# GCW
 Gestão de conteúdo Web
